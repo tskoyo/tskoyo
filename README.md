@@ -39,6 +39,5 @@ Beyond Ruby, I've ventured into the realms of React and Node.js, exploring the f
                   
                   
 <p align="left">
-  <a href="https://www.github.com/Ckojo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/jovan-sremacki" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
