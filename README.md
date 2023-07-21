@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I'm Jovan Sremacki, a passionate software engineer with 4 years of hands-on experience in the dynamic world of web development. My journey has primarily revolved around the Ruby ecosystem, with a deep focus on Ruby itself and the powerful Ruby on Rails framework. Currently, I am enthusiastically expanding my horizons by diving into the fascinating realm of the Hanami framework.
+I'm Jovan Sremacki, a passionate software engineer with three years of hands-on experience in the dynamic world of web development. My journey has primarily revolved around the Ruby ecosystem, with a deep focus on Ruby itself and the powerful Ruby on Rails framework. Currently, I am enthusiastically expanding my horizons by diving into the fascinating realm of the Hanami framework.
 
 What truly captivates me about Ruby is its metaprogramming capabilities. I'm constantly drawn to exploring the intricate art of leveraging Ruby's metaprogramming features to write elegant and expressive code. It's a journey that has not only sharpened my technical skills but has also enriched my understanding of software design principles. 
 
