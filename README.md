@@ -14,8 +14,7 @@ I'm also into Domain-Driven Design (DDD). It's all about building software that 
 
 *   🌍  I'm based in Serbia
 *   ✉️  You can contact me at [contact@jovans.me](mailto:contact@jovans.me)
-*   🚀  I'm currently working on [Personal project](https://github.com/jovan-sremacki/social-vibe-tracker)
-*   🧠  I'm learning Hanami framework
+*   🧠  I'm learning Blockchain development
   
   ### Skills 
 <p align="left">
