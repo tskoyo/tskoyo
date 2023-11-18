@@ -4,13 +4,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-A passionate software engineer with three years of hands-on experience in web development, mainly focusing on the Ruby ecosystem. My expertise lies in Ruby and Ruby on Rails. Lately, I've been diving into the Hanami framework to broaden my skills.
+As a software engineer with three years of experience, my journey in web development has been deeply rooted in the Ruby ecosystem, primarily with Ruby and Ruby on Rails.
 
-Ruby's metaprogramming capabilities really excite me. I love using them to write elegant and expressive code. This journey has honed my technical skills and deepened my grasp of software design principles.
+What truly excites me about Ruby is its metaprogramming capabilities, allowing me to craft code that is not just functional but also elegantly expressive. This experience has sharpened my technical acumen and given me a profound understanding of software design principles.
 
-I'm a strong advocate of Test-Driven Development (TDD). I believe well-tested code is reliable and stable. I prioritize creating thorough test suites for the applications I develop.
+I’m a staunch proponent of Test-Driven Development (TDD). My belief is that well-tested code isn’t just about preventing bugs; it’s the cornerstone of building reliable and stable software. This approach has been integral to my practice, ensuring the applications I develop meet the highest standards of quality.
 
-I'm also into Domain-Driven Design (DDD). It's all about building software that fits real-world business domains. I follow DDD principles to create scalable and maintainable architectures that help businesses thrive.
+Additionally, my interest in Domain-Driven Design (DDD) aligns closely with the principles of developing software that mirrors real-world business scenarios. This philosophy has been crucial in guiding me to design scalable and maintainable systems, which I see as essential for any business-driven technology, especially in dynamic fields like blockchain and web3.
+
+While my primary experience has been with Ruby, my fascination with the evolving landscape of blockchain technology has led me to start venturing into Node.js and web3 spaces. I am eager to bring my foundational software engineering skills and my newfound enthusiasm for decentralized technologies to a forward-thinking company like GasHawk. I am excited about the prospect of contributing to the cutting-edge work in the TX layer, making it more efficient, secure, and user-friendly for diverse interactions across wallets, dApps, and blockchains.
+
+
 
 *   🌍  I'm based in Serbia
 *   ✉️  You can contact me at [contact@jovans.me](mailto:contact@jovans.me)
