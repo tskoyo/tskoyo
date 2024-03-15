@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-As a software engineer with three years of experience, my journey in web development has been deeply rooted in the Ruby ecosystem, primarily with Ruby and Ruby on Rails.
+As a software engineer with four years of experience, my journey in web development has been deeply rooted in the Ruby ecosystem, primarily with Ruby and Ruby on Rails.
 
 What truly excites me about Ruby is its metaprogramming capabilities, allowing me to craft code that is not just functional but also elegantly expressive. This experience has sharpened my technical acumen and given me a profound understanding of software design principles.
 
