@@ -18,7 +18,7 @@ While my primary experience has been with Ruby, my fascination with the evolving
 
 *   🌍  I'm based in Serbia
 *   ✉️  You can contact me at [jovansr@protonmail.com](mailto:jovansr@protonmail.com)
-*   🧠  I'm learning Machine Learning
+*   🧠  I'm learning Blockchain development via [BlockchainExpert](https://www.algoexpert.io/blockchain/index)
   
   ### Skills 
 <p align="left">
