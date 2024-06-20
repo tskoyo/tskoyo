@@ -12,7 +12,7 @@ I’m a staunch proponent of Test-Driven Development (TDD). My belief is that we
 
 Additionally, my interest in Domain-Driven Design (DDD) aligns closely with the principles of developing software that mirrors real-world business scenarios. This philosophy has been crucial in guiding me to design scalable and maintainable systems, which I see as essential for any business-driven technology, especially in dynamic fields like blockchain and web3.
 
-While my primary experience has been with Ruby, my fascination with the evolving landscape of blockchain technology has led me to start venturing into Node.js and web3 spaces. I am excited about the prospect of contributing to diverse interactions across wallets, dApps, and blockchains.
+While my primary experience has been with Ruby, my fascination with the evolving landscape of blockchain technology has led me to start venturing into Solidity and web3 spaces. I am excited about the prospect of contributing to diverse interactions across wallets, dApps, and blockchains.
 
 
 
