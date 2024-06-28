@@ -21,8 +21,8 @@ While my primary experience has been with Ruby, my fascination with the evolving
 *   🧠  I'm currently working on [NFT Marketplace](https://github.com/jovan-sremacki/nft_marketplace)
 
   ### Certificates
-  * [BlockchainExpert](https://www.linkedin.com/in/jovan-sremacki/overlay/1716668671284/single-media-viewer/?profileId=ACoAACdq46wBwsEI5lzWPT3et23BJwzmdEj44ZQ)
-  * [Ethereum Blockchain Developer Bootcamp With Solidity (2024)](https://www.linkedin.com/in/jovan-sremacki/overlay/1716835314198/single-media-viewer/?type=IMAGE&profileId=ACoAACdq46wBwsEI5lzWPT3et23BJwzmdEj44ZQ)
+  * <a href="https://www.linkedin.com/in/jovan-sremacki/overlay/1716668671284/single-media-viewer/?profileId=ACoAACdq46wBwsEI5lzWPT3et23BJwzmdEj44ZQ" target="_blank">BlockchainExpert</a>
+  * <a href="https://www.linkedin.com/in/jovan-sremacki/overlay/1716835314198/single-media-viewer/?type=IMAGE&profileId=ACoAACdq46wBwsEI5lzWPT3et23BJwzmdEj44ZQ" target="_blank">Ethereum Blockchain Developer Bootcamp With Solidity (2024)</a>
   
   ### Skills 
 <p align="left">
