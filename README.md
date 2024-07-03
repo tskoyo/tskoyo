@@ -10,8 +10,6 @@ What excites me most about Ruby is its metaprogramming capabilities, which allow
 
 I strongly believe in Test-Driven Development (TDD). For me, well-tested code isn't just about preventing bugs; it's the foundation of building reliable and stable software. This approach has been integral to my practice, ensuring that the applications I develop meet the highest standards of quality.
 
-Additionally, I have a keen interest in Domain-Driven Design (DDD), which aligns closely with developing software that reflects real-world business scenarios. This philosophy has guided me in designing scalable and maintainable systems, which I see as essential for any business-driven technology, especially in dynamic fields like blockchain and web3.
-
 While my primary experience has been with Ruby, my fascination with the evolving landscape of blockchain technology has led me to explore Solidity and web3. I am excited about the prospect of contributing to diverse interactions across wallets, dApps, and blockchains.
 
 
