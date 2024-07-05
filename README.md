@@ -1,6 +1,3 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jovan Sremacki
-======================================================================================================================================
-
 Software Engineer
 -----------------
 
@@ -16,7 +13,7 @@ While my primary experience has been with Ruby, my fascination with the evolving
 
 *   🌍  I'm based in Serbia
 *   ✉️  You can contact me at [contact@jovans.me](mailto:contact@jovans.me)
-*   🧠  I'm currently working on [NFT Marketplace](https://github.com/jovan-sremacki/nft_marketplace)
+*   🧠  I'm currently working on personal project (Airdrop checker)
 
   ### Certificates
   * <a href="https://www.linkedin.com/in/jovan-sremacki/overlay/1716668671284/single-media-viewer/?profileId=ACoAACdq46wBwsEI5lzWPT3et23BJwzmdEj44ZQ" target="_blank">BlockchainExpert</a>
