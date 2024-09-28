@@ -1,9 +1,9 @@
 Software Engineer
 -----------------
 
-As a proficient Golang and Solidity developer with five years of professional software engineering experience, I have developed a deep understanding of the Ethereum Virtual Machine (EVM), decentralized finance (DeFi), and low-level Solidity. My journey in software development has evolved to focus on the blockchain space, where I specialize in building secure and efficient decentralized applications (dApps).
+As a proficient Golang and Solidity developer with five years of professional software engineering experience, I have developed a deep understanding of the Ethereum Virtual Machine (EVM) and decentralized finance (DeFi). I am curious to explore Ethereum's structure under the hood, and gain insights into how execution and consensus clients work, as well as diving into the inner workings of Geth.
 
-Driven by a passion for blockchain technology, I am dedicated to advancing the future of finance, decentralized governance, and the broader decentralized economy.
+I am dedicated to advancing the future of finance, decentralized governance, and the broader decentralized economy.
 
 
 *   🌍  I'm based in Serbia
